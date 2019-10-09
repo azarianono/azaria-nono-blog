@@ -1,0 +1,19 @@
+---
+ ARTICLE 1: "WHAT IF DOWN'S SYNDROM BE COULD BE CURED"
+description: |
+  A short description of the post.
+author:
+  - name: AZARIA NONO
+    url: {}
+date: 10-08-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+ Down syndrome (DS or DNS), also known as trisomy 21, is a genetic disorder caused by the presence of all or part of a third copy of chromosome 21. It is usually associated with physical growth delays, mild to moderate intellectual disability, and characteristic facial features.
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

@@ -14,5 +14,6 @@ navbar:
 base_url: http://azarianono.github.io/azaria-nono-blog/ 
 collections:
     posts:
+    Disqus: azarianono.
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
