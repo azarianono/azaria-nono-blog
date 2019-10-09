@@ -1,12 +1,13 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
-author:
-  - name: Nicolas Devilez
-date: 09-18-2019
+title: "Article 1 : DOWN'S SYNDROM .
+ WHAT IF IT COULD BE CURED?? 
+  author:
+  - name: AZARIA NONO
+date: 10-09-2019
 categories:
-  - elephant
+  TRISOMY 21
   - track
-preview: image/where-s-my-elephant.jpg
+preview: https://www.google.fr/search?q=TRISOMY+21&hl=fr&gl=fr&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjWmsWzy4_lAhXBYVAKHUbnDYwQ_AUIEigB#
 output:
   distill::distill_article:
     self_contained: false
@@ -17,7 +18,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
 
 ## Vocabulary 
 
