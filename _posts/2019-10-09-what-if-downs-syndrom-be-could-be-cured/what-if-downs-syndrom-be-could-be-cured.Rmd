@@ -1,16 +1,26 @@
 ---
-title: "WHAT IF DOWN'S SYNDROM BE COULD BE CURED"
+title: "WHAT IS DOWN's SYNDROME/TRISOMY 21"
 description: |
   A short description of the post.
 author:
   - name: Azaria Nono
-date: 10-09-2019
+date: 10-21-2019
 output:
   distill::distill_article:
     self_contained: false
 ---
-# ARTICLE 1
+# WHAT IS DOWN SYNDROME
 
-Down syndrome (DS or DNS), also known as trisomy 21, is a genetic disorder caused by the presence of all or part of a third copy of chromosome 21. It is usually associated with physical growth delays, mild to moderate intellectual disability, and characteristic facial features.
+Down's syndrome is a genetic condition which typically affects someone's learning and physical features.It is not a disease, an illness or a condition that someone can catch.But what is it?  Your genes hold the keys to how your body looks and works. They’re behind everything from your hair color to how you digest your food. So if something goes wrong with them, it can have far-reaching effects.
+
+People with Down syndrome are born with an extra chromosome. Chromosomes are bundles of genes, and your body relies on having just the right number of them. With Down syndrome, this extra chromosome leads to a range of issues that affect you both mentally and physically.
+
+Down syndrome is a lifelong condition. Although it can’t be cured, doctors know more about it now than ever. If your child has it, getting the right care early on can make a big difference in helping him live a full and meaningful life. 
+
+Down's syndrome is named after Doctor John Langdon Down who first published information about the condition in 1866.
+
+This year, the theme of World Down's Syndrome Day is leave no one behind, to promote support for making sure that people with the condition have the opportunity to live as fulfilling lives as anybody else and are treated equally.
+
+One of the ways that the day is marked is by people wearing colourful socks, so if you see somebody out today in colourful socks, this might be why.
 
  
