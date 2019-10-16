@@ -1,20 +1,17 @@
 [
   {
-    "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
-    "description": {},
+    "path": "posts/2019-10-09-what-if-downs-syndrom-be-could-be-cured/",
+    "title": "WHAT IF DOWN'S SYNDROM BE COULD BE CURED",
+    "description": "A short description of the post.",
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Azaria Nono",
         "url": {}
       }
     ],
-    "date": "2019-09-18",
-    "categories": [
-      "elephant",
-      "track"
-    ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T10:50:26+02:00"
+    "date": "2019-10-09",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-16T11:37:56+02:00"
   }
 ]
