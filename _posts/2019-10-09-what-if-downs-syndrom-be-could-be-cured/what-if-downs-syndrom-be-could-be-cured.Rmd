@@ -1,5 +1,5 @@
 ---
-title: "WHAT IS DOWN's SYNDROME/TRISOMY 21"
+title: "WHAT IS DOWN'S SYNDROME/TRISOMY 21"
 description: |
   A short description of the post.
 author:
@@ -9,18 +9,92 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-# WHAT IS DOWN SYNDROME
+# WHAT IS DOWN'S SYNDROME
 
-Down's syndrome is a genetic condition which typically affects someone's learning and physical features.It is not a disease, an illness or a condition that someone can catch.But what is it?  Your genes hold the keys to how your body looks and works. They’re behind everything from your hair color to how you digest your food. So if something goes wrong with them, it can have far-reaching effects.
+Down's syndrome is a genetic condition which typically affects someone's learning and physical features.It is not a *disease*, an *illness* or a condition that someone can transfer 
 
-People with Down syndrome are born with an extra chromosome. Chromosomes are bundles of genes, and your body relies on having just the right number of them. With Down syndrome, this extra chromosome leads to a range of issues that affect you both mentally and physically.
+# How does Down's syndrome affect a person?
 
-Down syndrome is a lifelong condition. Although it can’t be cured, doctors know more about it now than ever. If your child has it, getting the right care early on can make a big difference in helping him live a full and meaningful life. 
+People who have Down's syndrome have different personalities and abilities to each other, just like anybody else.
 
+Typically, everybody with the condition will experience some level of difficulty learning, so it might take a person with the condition a little longer to process information, carry out a task or learn new skills.
+
+People may also share common physical characteristics (for example, a smaller mouth and one individual line across the palm of their hand), but they will look like their parents just like anybody else. Individuals with Down's syndrome may be more likely to have some health problems - for example, with their hearing - so children with the condition might go to the doctor a little more often to keep on eye on their health. It can also cause speech problems, so a person might have speech therapy to help with this.
+
+The majority of people with the condition walk and talk, go to ordinary schools, play sport if they wish and lead a fairly typical life.
+
+The Down's Syndrome Association explains: "The level of support that a person with Down's syndrome needs as they grow older will be different from person to person."
+
+# How common is Down's syndrome?
+
+About one in every 1,000 babies is born with the condition. There are currently about 60,000 people in the UK with Down's syndrome. 
+![](https://ichef.bbci.co.uk/news/800/cpsprodpb/54B1/production/_106118612_gettyimages-535401785.jpg) 
+It is a little more likely for a woman to have a child with Down's syndrome if she has a baby when she is older.
+
+It occurs completely by chance in all races, in all countries across the world. 
+
+![](https://ichef.bbci.co.uk/news/800/cpsprodpb/ED09/production/_106118606_gettyimages-866452962.jpg) 
+
+# What causes Down's syndrome?
+
+Down's syndrome is a genetic condition, which means it is caused by something in a person's genes..Our bodies are made up of billions of tiny cells, and each cells contains genes. Genes are grouped together in structures called chromosomes.
+
+Genes contain important information that determine features like our eye colour and whether we are a boy or a girl.
+
+Usually, cells contain 46 chromosomes. But Down's syndrome happens all or some of the cells in a person's body has 47 chromosomes due to an extra copy of chromosome 21.
+
+This is why you might also hear the condition being called trisomy 21.
+
+There are three types of Down's syndrome:
+
+Trisomy 21 - All the cells have an extra chromosome 21 (most people with Down's syndrome have this type)
+Translocation - The added genetic material on chromosome 21 is attached to another (around 4% have this type)
+Mosaic - Some cells in the body, not all, have an extra chromosome 21 (this is the least common type)
+Someone called Professor Jerome Lejeune proved that this is what causes Down's syndrome in 1959.
+
+![](https://ichef.bbci.co.uk/news/800/cpsprodpb/12B93/production/_106119667_gettyimages-906720064.jpg)
+
+# why is it called Down's syndrome?
 Down's syndrome is named after Doctor John Langdon Down who first published information about the condition in 1866.
 
-This year, the theme of World Down's Syndrome Day is leave no one behind, to promote support for making sure that people with the condition have the opportunity to live as fulfilling lives as anybody else and are treated equally.
+Since then, we've learned a lot more about the condition.
 
-One of the ways that the day is marked is by people wearing colourful socks, so if you see somebody out today in colourful socks, this might be why.
+******
+
+# ANALYSIS TABLE
+
+# ARTICLE 1: WHAT IS DOWN'S SYNDROME
+
+## Source of the article:BBC NEWS MARCH 2019
+## Word count: 525
+
+
+## II - VOCABULARY: 
+
+Word from the text |  Synonym/definition in English |  French translation
+------------------ | -----------------------------  |----------------------
+
+		
+		
+		
+
+## III - ANALYSIS TABLE ABOUT THE STUDY
+Researchers?	
+
+Published in? when 
+
+General topic	
+
+
+Procedure/                
+
+
+
+
+Conclusions/ discovery	
+
+Remaining questions	
+
+
 
  
