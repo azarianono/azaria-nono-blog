@@ -11,7 +11,7 @@ output:
 ---
 # WHAT IS DOWN'S SYNDROME
 
-Down's syndrome is a genetic condition which typically affects someone's learning and physical features.It is not a *disease*, an *illness* or a condition that someone can transfer 
+Down's syndrome is a genetic condition which typically affects someone's learning and physical features.It is not a **disease**, an **illness** or a condition that someone can transfer 
 
 # How does Down's syndrome affect a person?
 
@@ -19,7 +19,7 @@ People who have Down's syndrome have different personalities and abilities to ea
 
 Typically, everybody with the condition will experience some level of difficulty learning, so it might take a person with the condition a little longer to process information, carry out a task or learn new skills.
 
-People may also share common physical characteristics (for example, a smaller mouth and one individual line across the palm of their hand), but they will look like their parents just like anybody else. Individuals with Down's syndrome may be more likely to have some health problems - for example, with their hearing - so children with the condition might go to the doctor a little more often to keep on eye on their health. It can also cause speech problems, so a person might have speech therapy to help with this.
+People may also share common physical characteristics (for example, a smaller mouth and one individual line across the palm of their hand), but they will look like their parents just like anybody else. Individuals with Down's syndrome may be more likely to have some health problems - for example, with their hearing - so children with the condition might go to the doctor a little more often to keep on eye on their health. It can also cause **speech problems**, so a person might have speech therapy to help with this.
 
 The majority of people with the condition walk and talk, go to ordinary schools, play sport if they wish and lead a fairly typical life.
 
@@ -37,7 +37,7 @@ It occurs completely by chance in all races, in all countries across the world.
 
 # What causes Down's syndrome?
 
-Down's syndrome is a genetic condition, which means it is caused by something in a person's genes..Our bodies are made up of billions of tiny cells, and each cells contains genes. Genes are grouped together in structures called chromosomes.
+Down's syndrome is a genetic condition, which means it is caused by something in a person's genes..Our bodies are made up of billions of tiny cells, and each cells contains genes. **Genes** are grouped together in structures called **chromosomes**.
 
 Genes contain important information that determine features like our eye colour and whether we are a boy or a girl.
 
@@ -47,9 +47,9 @@ This is why you might also hear the condition being called trisomy 21.
 
 There are three types of Down's syndrome:
 
-Trisomy 21 - All the cells have an extra chromosome 21 (most people with Down's syndrome have this type)
-Translocation - The added genetic material on chromosome 21 is attached to another (around 4% have this type)
-Mosaic - Some cells in the body, not all, have an extra chromosome 21 (this is the least common type)
+Trisomy 21 - All the cells have an extra chromosome 21 (most people with Down's syndrome have this type) 
+**Translocation** - The added genetic material on chromosome 21 is attached to another (around 4% have this type); 
+**Mosaic** - Some cells in the body, not all, have an extra chromosome 21 (this is the least common type; )
 Someone called Professor Jerome Lejeune proved that this is what causes Down's syndrome in 1959.
 
 ![](https://ichef.bbci.co.uk/news/800/cpsprodpb/12B93/production/_106119667_gettyimages-906720064.jpg)
@@ -65,7 +65,7 @@ Since then, we've learned a lot more about the condition.
 
 # ARTICLE 1: WHAT IS DOWN'S SYNDROME
 
-## Source of the article:BBC NEWS MARCH 2019
+## Source of the article:https://www.bbc.co.uk/newsround/24708543
 ## Word count: 525
 
 
@@ -73,15 +73,16 @@ Since then, we've learned a lot more about the condition.
 
 Word from the text |  Synonym/definition in English |  French translation
 ------------------ | -----------------------------  |----------------------
-
-		
-		
-		
+disease            |       illness                  |   maladie 
+speech problems    |       language difficulties    |   problème d'élocution
+gene               |       heridity                 |      gène    
+translocation      |       modification             |     translocation 
+mosaic             |       fine art                 |     mosaique
 
 ## III - ANALYSIS TABLE ABOUT THE STUDY
-Researchers?	
+Researchers:	
 
-Published in? when 
+Published in
 
 General topic	
 
@@ -94,6 +95,10 @@ Procedure/
 Conclusions/ discovery	
 
 Remaining questions	
+
+can down's syndrom be treated?
+
+how are the poeple with this genetic condition and their family leaving?
 
 
 
