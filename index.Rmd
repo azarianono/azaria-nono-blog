@@ -1,5 +1,5 @@
 ---
-title: "DOWN'S SYNDROM"
+title: "DOWN'S SYNDROME"
 site: distill::distill_website
 listing: posts
 ---
