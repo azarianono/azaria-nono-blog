@@ -1,13 +1,8 @@
 ---
-title: "WHAT IS DOWN'S SYNDROME/TRISOMY 21"
-description: |
-  A short description of the post.
-author:
-  - name: Azaria Nono
-date: 10-21-2019
-output:
-  distill::distill_article:
-    self_contained: false
+title: "analysis table"
+author: "azaria nono"
+date: "10/31/2019"
+output: html_document
 ---
 
 # ANALYSIS TABLE
@@ -29,27 +24,21 @@ translocation      |       modification             |     translocation
 mosaic             |       fine art                 |     mosaique
 
 ## III - ANALYSIS TABLE ABOUT THE STUDY
+Researchers:	
 
-**Researchers:**	
+Published in
 
-**Published in :**
+General topic	
 
-**General topic	:**
 
-# Introduction 
-
-This article is aim at bringing awerness of the condition to the general public.explain them what the condition is about,how it occurs and especially make them know how and when they can show their support to down's syndromes victims through their daily life.
-
-# Procedure         
-
-   The article is very well written with alot of
+Procedure/                
 
 
 
 
-# Conclusions/ discovery	
+Conclusions/ discovery	
 
-# Remaining questions	
+Remaining questions	
 
 can down's syndrom be treated?
 
