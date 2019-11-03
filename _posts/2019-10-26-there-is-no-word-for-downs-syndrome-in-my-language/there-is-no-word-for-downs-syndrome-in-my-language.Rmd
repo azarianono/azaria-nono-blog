@@ -11,183 +11,65 @@ output:
     self_contained: false
 ---
 
-# There is no word for Down’s syndrome in my language.
 
-![](https://ichef.bbci.co.uk/news/660/cpsprodpb/8087/production/_106930923_elly-chadron_brightened_dsc_0735_2048x1152_credit_clarespence.jpg)
-**Elly Kitaly takes her son Chadron swimming in place of the physiotherapy he needs for his Down's syndrome**
+# ARTICLE 2: 'There is no word for Down’s syndrome in my language'
 
-When Elly Kitaly gave birth to her son she found out he had Down's syndrome. She realised that the condition was so ignored in her country, Tanzania, that there was not even an adequate word in her language, Swahili.
 
-This is Elly's account of her journey to find out why.
+## Source of the article: https://www.bbc.com/news/world-africa-48252939
+## Word count: 
 
-Waiting for an internal flight at Dar es Salaam's airport, a young accountant started making conversation with me.
 
-"Why are you flying to Arusha?" he asked.
 
-I told him I was going to meet a friend I had made on Instagram. She is a mother, like me. Her son is four, like mine, and just like my son Chadron, he has Down's syndrome.
+# II - VOCABULARY: 
 
-"What's Down's syndrome?" he asked.
+Word from the text |  Synonym/definition in English |  French translation
+------------------ | -----------------------------  |----------------------
+geared           |       accomodate                 |   adapté 
+palsy   |       paralysis    |   paralysie
+dwarf             |       short             |      nain   
+floristry      |    blooming               |     fleuristerie 
+to cast a spell        |      enchant             |  jeter un sort
+googoling       |   learning disabilities    |  googler
+outrageous      |   scandalizing    | outrageux
 
-This is a question I get often in Tanzania. It doesn't matter how educated you are, no-one seems to know what it is.
-
-I geared myself up to give my well-practised explanation.
-
-I wanted to switch into our language, Swahili, but I knew I had to keep to English because there isn't a good-enough word for Down's syndrome in Swahili.
-
-## From dwarf to zombie: the problematic terms used in Swahili to describe Down's syndrome
-
-**Mlimbuko dalili dumazi** :- this term is used in the Swahili dictionary for disabled people but I never hear anyone use it in real life. Doctors aren't even aware of it. "Dumazi" translates as **dwarf** and I have a suspicion that is because that is a translation of the word down - as in down low or short. This is a mistranslation because, while one of the symptoms can be stunted growth, Down's syndrome actually gets its name from the doctor who first observed all its characteristics together - John Langdon Down.
-
-**Taahira** :- this is the term I hear used most often. Its English equivalent is retard. Just like retard it is a highly offensive insult. But unlike in English, it hasn't been replaced by a term like "learning disability". Other insults with a similar meaning are "mazazeta" and "zuzu".
-
-**Mtindio wa ubongo** :- this is the most socially acceptable term and you'll hear officials use it, but it isn't accurate as it means cerebral palsy.
-
-**Ndondocha** :- this slang loosely means zombie, as in someone who has been possessed. It refers to the belief that witch doctors can cast spells to make people mentally disabled. It can also be used to mean someone who has been cursed by their ancestors.
-
-My language is a reflection of my country - it can sometime feel like Down's syndrome (DS) doesn't exist in Tanzania.
-
-Take my fellow passenger at the airport.
-
-I explained to him that there are some common physical signs of DS, like slanted eyes and a flat nose.
-
-He looked blank. So I showed him pictures and he said he hadn't seen people like this before.
-
-We boarded our flight and the conversation came to an end but it got me thinking.
-
-Looking back, I realised that growing up, I'd never seen a person with DS either. Not at school, not in the market, and not at church.
-
-I was barely aware of the condition until I gave birth to my own son.
-
-I remember frantically Googling it in my hospital bed.
-
-I learnt that the **most common form of Down's syndrome is trisomy 21, trisomy meaning third chromosome. You can think of chromosomes as the instruction manuals for how to build your body**. It's typical to have 23 instruction manuals, each in duplicate, but people with trisomy 21 have an extra, third, copy of manual 21.
-
-Crucially, I learnt that this extra chromosome comes about as a result of random events during the development of the embryo, egg or sperm cells.
-
-If it's random, it can occur just as much in Tanzania as any other country.
-
-Given that, why hadn't I, or my new accountant friend, seen anyone with DS in public?
-
-With this question in mind, I arrived in Arusha and met my Instagram friend, Magreth Paschal, for the first time in real life.
-
-![](https://ichef.bbci.co.uk/news/624/cpsprodpb/5566/production/_107126812_dsc_0253.jpg)
-**It's impossible to say how many people with DS are hidden behind closed doors**
-
-Magreth, right, showed me the devestating text message she received about her son Jotham, left
-As we sat at her home admiring her plants from her floristry business, she told me the first she had heard of the condition was when her son was diagnosed.
-
-Like me, she hadn't seen people with DS at all when she was growing up.
-
-She suspected that this was because parents had been shamed into hiding their children.
-
-The reason she held this suspicion was because of something that happened to her when her son Jotham was a baby.
-
-A customer of hers had made a shocking accusation in a text message.
-
-She'd kept the message and read it out loud to me: "Shame on you for going to the witch doctor and sacrificing your son just so that you can get rich."
-
-I had heard of this idea before because I had been told that people had said similar things about me.
-
-It's a complicated belief to get your head around.
-
-Some people in Tanzania think that people have DS because their parents have gone to the witch doctor to cast a spell to make themselves rich and have given their own child's mental capabilities as a sacrifice.
-
-
-Magreth was incredibly sad that someone would make such an accusation about her.
-
-"After I received the text, I couldn't even continue to feed the baby. I just cried and cried. It was the worst experience of my life."
-
-When she went out to the park with her son she started noticing people staring at her.
-
-"Back then I was not comfortable to go out in public with my son because some people looked at me as if I'm a sinful person," she told me.
-
-She felt people judging her most when she was driving with Jotham in the car - in a town where many people couldn't ever dream of owning a car in their lifetime.
-
-"That's when you give them the answer that you have used your son for the money ritual."
-
-![](https://ichef.bbci.co.uk/news/624/cpsprodpb/BAEF/production/_107155874_gettyimages-494299216_976.jpg)
-**It's impossible to say how many people with DS are hidden behind closed doors**
-
-Sitting across from Magreth, I was filled with anger. I found myself shouting: "I want the world to know that we did not go to the witchdoctor.
-
-"That isn't how we ended up with children with Down's syndrome."
-
-While the accusations made against parents are outrageous, if those parents do give in to the shame and hide their children, the consequences are heartbreaking.
-
-By locking their children away, these parents are denying them the opportunity to socialise and learn.
-
-What is Down's syndrome?
-It is named after the doctor John Langdon Down who was the first to categorise the common features
-Common but not universal features include short stature, round face, almond-shaped and up-slanting eyes
-People with DS have physical and intellectual delays from birth
-The most common form of DS is a genetic disorder whereby a person has three copies of chromosome 21 instead of two
-DS has nothing to do with race, nationality, socio-economic status or religion
-Source: Global Down Syndrome Foundation
-
-Tanzanian organisations working with people with DS include: The Pearl of People with Down Syndrome foundation and Chadron's Hope Foundation.
-
-The condition can lead to smaller stature and a learning disability. But our children with DS do learn, it just takes a bit longer.
-
-Magreth and I have a shared love for videos on social media that prove this.
-
-There was one that blew my mind and I couldn't wait to to tell her about - US actor and campaigner with DS, Frank Stephens' speech at congress had gone viral.
-![](https://ichef.bbci.co.uk/news/624/cpsprodpb/14868/production/_107127048_gettyimages-622949886.jpg)
-**Frank Stephens told me the secret behind his success in public speaking was being included in everything by his parents**
-
-
-I had never seen someone with DS speak as eloquently as him before. I got in touch with Frank to ask him what circumstances had led him to be such an accomplished public speaker.
-
-He was clear - it was a result of his parents involving him in everything when he was growing up.
-
-Locking up children isn't just restricting their opportunities. It can actually create more disabilities.
-
-One physiotherapist, Godfrey Kimathy, told me when he was working in Magreth's region he found a seven-year-old girl who couldn't walk or talk or go to the toilet, not because she had DS but because she had been locked up her whole life.
-
-Her parents had locked their daughter up because their neighbours believed they had made her that way in order to become rich.
-
-But Godfrey said he couldn't even see the wealth that the neighbours were talking about.
-
-Magreth went down a different route - she became defiant against this stigma.
-
-She now takes Jotham everywhere and by doing so she hopes to change her world.
-
-And I want to change my world too by proposing the introduction of a new Swahili term - "Traisomi ishirini na moja" it's a direct translation of trisomy 21 - that extra chromosome.
-
-**********
-
-ARTICLE 1: 
-
-I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
-Source of the article:
-Word count: 
-II - VOCABULARY: Use the following dictionaries given on the wiki under ‘Useful Websites – Dictionaries’ : . They are highlighted in yellow.
-Word from the text	Synonym/definition in English	French translation
 		
 		
 		
 		
 
-III - ANALYSIS TABlE
-Researchers?                             |
+# III - ANALYSIS TABlE
+**Researchers:   **                          |
 
-                                         |
-Published in? when (if mentioned)?	     |
-
-
-General topic	
+**Published in :**  4 JUNE 2019
 
 
+## General topic :'There is no word for Down’s syndrome in my language'
 
-Procedure/                what was examined	
+## Intoduction
 
-
-
-Conclusions/ discovery	
-
+This article tries to explain the difficulties encountered by down's syndrome victims relatives in our society especially in africa. This is because in african communities people believe that all what is bad or negative from their point of view is surely  due to a curse . So this article is really aim at impooving the awearness about the condition in our society
 
 
+## Procedure/                what was examined	
 
-Remaining questions	
+* The article was very well structured at first through the conversation the woman had with her sit mate in the plane helped us to realise how ignored the condition was in the country to an extend that there was no word for the condition in the local language even by the doctors themselves
+
+* Secondly, the author clearly tries to explain what the condition is all about.This is done in other to improove the awareness of the condition inother to reduce or stop spiritual taughts that clearly have nothing to do with the condition and that brings nothing else but harm to the family and the victims preventing them from a social intergration. 
+
+* Finally he tires to figure outthe reasons  why the condition was kept so unknown by the general public and comes out with the hypothesis that may be the parents used to hide their kids from the society in other to avoid judgments for something they didn't commited
+
+
+
+## Conclusions/ discovery	
+
+I can conclude that it is very important for all us to manage the way we treat DS victims and their relatives
+
+
+
+
+## Remaining questions	
+
+has the name for DS in sawhili proposed by the woman been acknwoledged?
 
 
 
