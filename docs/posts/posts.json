@@ -2,7 +2,7 @@
   {
     "path": "posts/2019-10-26-there-is-no-word-for-downs-syndrome-in-my-language/",
     "title": "'There is no word for Down’s syndrome in my language'",
-    "description": "A short description of the post.",
+    "description": {},
     "author": [
       {
         "name": "Azaria Nono",
@@ -12,7 +12,7 @@
     "date": "2019-10-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-03T17:02:52+01:00"
+    "last_modified": "2019-11-10T14:33:29+01:00"
   },
   {
     "path": "posts/2019-10-09-what-if-downs-syndrom-be-could-be-cured/",
@@ -27,6 +27,6 @@
     "date": "2019-10-21",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-03T15:07:03+01:00"
+    "last_modified": "2019-11-10T14:49:09+01:00"
   }
 ]

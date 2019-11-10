@@ -1,7 +1,6 @@
 ---
 title: "'There is no word for Down’s syndrome in my language'"
-description: |
-  A short description of the post.
+description:
 author:
   - name: Azaria Nono
     url: {}
@@ -14,9 +13,11 @@ output:
 
 # ARTICLE 2: 'There is no word for Down’s syndrome in my language'
 
+![](https://ichef.bbci.co.uk/news/320/cpsprodpb/8087/production/_106930923_elly-chadron_brightened_dsc_0735_2048x1152_credit_clarespence.jpg)
+
 
 ## Source of the article: https://www.bbc.com/news/world-africa-48252939
-## Word count: 
+## Word count: 679
 
 
 
@@ -47,31 +48,22 @@ outrageous      |   scandalizing    | outrageux
 
 ## Intoduction
 
-This article tries to explain the difficulties encountered by down's syndrome victims relatives in our society especially in africa. This is because in african communities people believe that all what is bad or negative from their point of view is surely  due to a curse . So this article is really aim at impooving the awearness about the condition in our society
-
+This article tries to explain the difficulties down's syndrome victims and their relatives encounter in our society especially in Africa. This is because in African communities, people believe that all what is bad or negative from their point of view is surely  due to a curse. So this article really aims at improving people's awareness about the condition in our society
 
 ## Procedure/                what was examined	
 
-* The article was very well structured at first through the conversation the woman had with her sit mate in the plane helped us to realise how ignored the condition was in the country to an extend that there was no word for the condition in the local language even by the doctors themselves
-
-* Secondly, the author clearly tries to explain what the condition is all about.This is done in other to improove the awareness of the condition inother to reduce or stop spiritual taughts that clearly have nothing to do with the condition and that brings nothing else but harm to the family and the victims preventing them from a social intergration. 
-
-* Finally he tires to figure outthe reasons  why the condition was kept so unknown by the general public and comes out with the hypothesis that may be the parents used to hide their kids from the society in other to avoid judgments for something they didn't commited
-
-
+ The article was very well structured at first through the conversation the woman had with her seat mate in the plane helped us to realise how ignored the condition was in the country to an extend that there was no word for the condition in the local language even by the doctors 
+ 
+ * Secondly, the author is clearly trying to explain what the condition is all about. This is done in order to improve the awareness of the condition in order to reduce or stop spiritual thoughts that clearly have nothing to do with the condition and that brings nothing else but harm to the family and the victims preventing them from a social integration. 
+ 
+ 
+ * Finally, he tries to figure out the reasons  why the condition was kept so unknown by the general public and comes out with the hypothesis that maybe the parents used to hide their kids from the society in order to avoid judgments for something they didn't commit
+ 
 
 ## Conclusions/ discovery	
 
-I can conclude that it is very important for all us to manage the way we treat DS victims and their relatives
+I can conclude that it is very important for all us to manage the way we treat DS victims and their relatives 
 
+## Remaining questions	 
 
-
-
-## Remaining questions	
-
-has the name for DS in sawhili proposed by the woman been acknwoledged?
-
-
-
-
-
+has the name for the DS in Swahili proposed by the woman been acknowledged?
