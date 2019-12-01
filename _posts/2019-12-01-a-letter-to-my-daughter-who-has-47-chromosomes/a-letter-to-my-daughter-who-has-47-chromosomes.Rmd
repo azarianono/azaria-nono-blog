@@ -1,0 +1,72 @@
+---
+title: "A LETTER TO MY DAUGHTER WHO HAS 47 CHROMOSOMES"
+description: |
+  A short description of the post.
+author:
+  - name: Azaria Nono
+    url: {}
+date: 12-01-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# ARTICLE 3 :  A LETTER TO MY DAUGHTER WHO HAS 47 CHROMOSOMES
+
+![](https://i.guim.co.uk/img/media/36cea51321dd947c72450af4f875e55d768ad2b7/2_0_7107_4267/master/7107.jpg?width=620&quality=45&auto=format&fit=max&dpr=2&s=87cc488123f0a9877372280b68d86c16)
+
+
+## Source of the article:https://www.theguardian.com/lifeandstyle/2019/nov/02/a-letter-to-my-daughter-who-has-47-chromosomes
+## Word count: 502
+
+
+
+# II - VOCABULARY: 
+
+Word from the text |  Synonym/definition in English |  French translation
+------------------ | -----------------------------  |----------------------
+cot          |       baby bed               |   lit de bébé 
+to flush  |       cleanse    |   tirer la chasse à eau
+casualty           |       victim          |    victime  
+popping      |    visiting           |     débarquer
+counsellor       |      adviser            |  conseiller
+mundanity     |   worldliness    |  mondanité
+despised     |   loathe   | méprisé
+revered      |   admire         |     vénéré
+
+		
+		
+		
+		
+
+# III - ANALYSIS TABLE
+**Researchers:   **                          |
+
+**Published in :**  4 JUNE 2019
+
+
+## General topic :'A letter to my daughter with 47 chromosomes'
+
+## INTRODUCTION
+
+The article is in the form of a letter written by a mother to her down's syndrome grown kid. it is an amazing letter through which we can feel all the mother's feeling from the hate she had for giving birth to  a daughter with down's condition to deeper love and gratefulness she has today for her grown daughter 
+
+## Procedure/                what was examined	
+
+- Here was examined the feelings a mother giving birth to a down baby can go through. from hatred to love.This can been seen at the beginning of the letter when the mum tries to describe how disappointed she was the moment she was informed she gave birth to a down baby, added to that some inappropriate comment from a nurse in her room after the birth and the public humiliation  when her daughter undressed in a public area
+
+- .At a point in the letter we can feel the mother's sadness as she divorced with her husband and her two other grown up kids already living in their own homes but the only person who keeps the family together is her down's syndrome daughter whose quietness and cuteness make them remember they have to appreciate life in simple things
+
+
+## Conclusions/ discovery	
+
+As a conclusion to this wonderful story life never brings things to us for no reason and we must all learn to appreciate life in simple things
+
+## Remaining questions	 
+
+can a potential  down's syndrome kid be noticed in the primary states of  pregnancy?? if yes then what will be done?? 
+

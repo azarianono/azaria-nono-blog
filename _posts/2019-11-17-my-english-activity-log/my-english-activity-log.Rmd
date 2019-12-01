@@ -1,0 +1,35 @@
+---
+title: "MY ENGLISH ACTIVITY LOG"
+description: |
+  A short description of the post.
+author:
+  - name: Azaria Nono
+    url: {}
+date: 11-17-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# TV AND WEB SERIES
+
+ - Every weekends i watch my tv show **power** a US web series about james sint patrick a former gangster converted to a business man but have to pay the consequeces of hiis past ganster life style
+ 
+ - on saturday 01/12 watched an amazing movie **American son** a film about racism both from a balck and white person's sight of view very interesting and instructive
+
+
+# BOOKS AND NOVELS
+
+- scince 02 nevember i have recently start reading a very interesting book called **rich father broke father**  it's a wonderful book who thus teaches how to creat and manage a succesful business
+
+
+# MY ACTIVITIES 
+
+
+
+
