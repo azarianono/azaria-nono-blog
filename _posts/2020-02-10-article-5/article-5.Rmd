@@ -1,0 +1,63 @@
+---
+title: "Article 5"
+description: |
+  A short description of the post.
+author:
+  - name: Azaria Nono
+    url: {}
+date: 02-10-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article 5 :High rates of dementia, Alzheimer's observed among older people with Down syndrome
+
+![](https://thekensingtonwhiteplains.com/wp-content/uploads/dementia-cropped-e1511819146715.jpg)
+
+## Source of the article:https://www.sciencedaily.com/releases/2019/10/191028175134.htm
+## Word count: 370
+
+
+
+# II - VOCABULARY: 
+
+Word from the text |  Synonym/definition in English |  French translation
+------------------ | -----------------------------  |----------------------
+Dementia     |    brain disease that causes long-term decrease in ability to think and remember         | démentia
+Alzheimer |        brain diseases that cause a long-term and often gradual decrease in the ability to think and remember    |   Alzheimer
+Enrollees         |       participants           | parcitipants  
+likelihood    |    probability              |     probablité
+Medicaid     |      health inssurance for the poor in the U.S           |  assurance maladie 
+
+# III - ANALYSIS TABlE
+**Researchers:   **               NIH/Eunice Kennedy Shriver National Institute of Child Health and Human Development
+
+**Published in :**  28 october 2019
+
+
+## General topic :High rates of dementia, Alzheimer's observed among older people with Down syndrome
+
+
+## Intoduction
+
+In this article was examined the relationship between  down syndrome and  brain diseases that cause a long-term and often gradual decrease in the ability to think and remember that is severe enough to affect daily functioning. such as dementia and Alzheimer
+
+## Procedure/                what was 
+
+In the current study, researchers led by Eric Rubenstein, Ph.D., and colleagues at the University of Wisconsin-Madison analyzed claims records by 2,968 Wisconsin Medicaid enrollees with Down syndrome from 2008 to 2018. Among those ages 40 to 54, 18.8% (190 of 1013) had filed dementia claims. There was a 40% chance that a person with Down syndrome age 40 to 54 years old would file a dementia claim over the next 11 years; there was a 67% chance that a person with Down syndrome age 55 or older would file such a claim. Among men and women with Down syndrome younger than 40, the likelihood of dementia was roughly equal, but from ages 40 to 54, dementia was 23% more likely in women
+
+## Conclusions/ discovery	
+
+From the results obtained we can conclude that down syndrome has relationship with  brain diseases that cause a long-term and often gradual decrease in the ability to think and remember
+
+## Remaining questions	 
+
+    
+
+
+
