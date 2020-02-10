@@ -1,0 +1,64 @@
+---
+title: "Restoring protein homeostasis improves memory deficits in Down syndrome model"
+description: |
+  A short description of the post.
+author:
+  - name: Azaria Nono
+    url: {}
+date: 01-30-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article 4 : Restoring protein homeostasis improves memory deficits in Down syndrome model
+
+![](https://lh4.googleusercontent.com/proxy/YPqI6kb2Obu0hx7K5IG2pBFHIHmCb03m6-icWFo79NCX8iDGHiVtPKqLeQy8xz5Z-LmXgSYABkO_kqAlFu1uEuvHaOrDnCN-1FSmKKYxjbFwDWs)
+
+## Source of the article:https://www.sciencedaily.com/releases/2019/11/191114141313.htm
+## Word count: 519
+
+
+
+# II - VOCABULARY: 
+
+Word from the text |  Synonym/definition in English |  French translation
+------------------ | -----------------------------  |----------------------
+ISR          |    integrated stress response          | réponse au stress intégrée
+homeostasis  |       balance    |   homéostasie
+neurodegerative          |       destroys brain cells           | neurodégératif  
+postmortem     |    after death               |     post-mortem
+endowed       |      provide with an ability           |  doter  
+
+# III - ANALYSIS TABlE
+**Researchers:   **   Baylor College of Medicine                       |
+
+**Published in :**  14 November 2019
+
+
+## General topic : Restoring protein homeostasis improves memory deficits in Down syndrome model
+
+
+## Intoduction
+
+In this article was examined  the role protein homeostasis networks play in Down syndrome to be more precise the role of the ISR protein. we know that down's syndrome creates a long term memory defects to its victims  Costa-Mattioli and his colleagues investigated whether the activation of the ISR mediated the long-term memory deficits in Down syndrome mice.
+
+## Procedure/                what was 
+
+Researchers have found out that there is a certain protein known as ISR (integrated stress response) which is switched off in people having down syndrome and  could be a major reason for the cognitive deficits 
+ To answer this question, Dr costa-Mattioli and his colleages used four independent genetic and pharmacological manipulations to correct the ISR in the Down syndrome mouse model.
+Firstly, in one set of experiments they trained Down syndrome and control mice in a new task. Down syndrome mice did not learn the task as well as control mice. Secondly, when they genetically or pharmacologically inhibited the ISR, the animals were able to learn almost as well as control mice."
+ 
+
+## Conclusions/ discovery	
+
+I can conclude that ISR is the main protein responsible for down syndrome memory defects and from these amazing experiment we can say that switching this protein on in down syndrome peoples will cure memory defects
+
+## Remaining questions	 
+
+    
+
