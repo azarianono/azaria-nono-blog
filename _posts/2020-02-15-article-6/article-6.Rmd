@@ -1,0 +1,67 @@
+---
+title: "Article 6"
+description: |
+  A short description of the post.
+author:
+  - name: Azaria Nono
+    url: {}
+date: 02-15-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Article 6: Exploring the risk of ALL in children with Down syndrome
+
+![](https://miro.medium.com/max/1000/0*iQb-B55p3Qf8DpXW.jpg)
+
+## Source of the article:https://www.sciencedaily.com/releases/2019/09/190924133245.htm
+## Word count: 777
+
+
+
+# II - VOCABULARY: 
+
+Word from the text |  Synonym/definition in English |  French translation
+------------------ | -----------------------------  |----------------------
+Underpinnings       |    support        | soutien
+oncology  |   science of cancers   |   oncologie
+hint         |       suggestion          | allusion 
+hematology    |    science of blood and blood dieseases              |     hématologie
+framework      |      structure          |  cadre
+Assessement   |    evaluation          |  évaluation      
+
+# III - ANALYSIS TABlE
+**Researchers:   **   Dr Karen R.Rabin and R Philip J. Lupo from Baylor College of Medicine                       |
+
+**Published in :**  24 september 2019
+
+
+## General topic :Exploring the risk of ALL in children with Down syndrome
+
+
+## Introduction
+As we know Acute lymphoblastic leukemia (ALL), is the most common childhood cancer. but this article tries to examine why Children with trisomy 21 (Down syndrome) are 10 to 20 times more likely to develop ALL than children without Down syndrome.
+
+## Procedure/                what was  examined
+
+For the study to be done efficiently, researchers Dr Karen R. and Dr Philip J. had to conduct a genome-wide association study (GWAS) that enabled them to look for genetic differences between children with Down syndrome and children without Down syndrome with ALL that might explain the increased susceptibility to ALL in Down syndrome kids. These studies had identified several genes associated with a higher risk of ALL.
+ The researchers took a special look on 2 of these genes  known
+* CDKN2A 
+* IKZF1
+-
+
+ 
+
+## Conclusions/ discovery	
+*  They found, for instance, that children with Down syndrome carrying a particular variant of the CDKN2A gene have a 1.7 times higher risk of developing ALL than children without Down syndrome who carry the same variant.
+ *  They found that reducing IKZF1 expression resulted in significantly higher proliferation rates in Down syndrome than non-Down syndrome cells. 
+
+## Remaining questions	 
+ Have the researchers found out a way to reduce the risk of A.L.L in down syndrome children?
+    
