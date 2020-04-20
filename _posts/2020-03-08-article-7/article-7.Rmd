@@ -15,7 +15,54 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+# Article 7: Novel insight into chromosome 21 and its effect on Down syndrome
+
+![](https://youngzine.org/sites/default/files/slideshow/technology/brain-signal.jpg)
+
+## Source of the article : https://www.sciencedaily.com/releases/2020/01/200128114620.htm
+## Word count: 500
+
+
+
+# II - VOCABULARY: 
+
+Word from the text |  Synonym/definition in English |  French translation
+------------------ | -----------------------------  |----------------------
+Insight      |   an accurate and deep undestanding       | perspicacité
+Electroencephalogram  |  A test or record of the brain activity     |   électroencéphalogramme
+strain       |   a particular group    |   souche
+Cognitive   |   knwoledge            |     cognitif
+Perhaps     |     may be         |  peut-etre
+
+
+# III - ANALYSIS TABlE
+**Researchers:   ** college university of london                       |
+
+**Published in :**  28 january 2020
+
+
+## General topic :Novel insight into chromosome 21 and its effect on Down syndrome
+
+
+## Introduction
+In this article was examined the  newly UCL-led research work that has for the first time be able to identify specific regions of chromosome 21, which cause memory and decision-making problems in mice with Down syndrome, a finding that provides valuable new insight into the condition in humans.
+
+## Procedure/                what was  examined
+
+* The researchers looked at the effect of the genes in each of these three different mouse regions (chromosomes) on learning and memory. To do this three different mouse strains (groups of mice), were genetically modified to carry an extra copy of one of the gene groups on mouse chromosomes 16, 10 or 17.
+
+* During these tests, the electrical activity of brain regions important for memory and decision making was also monitored, using an electroencephalogram (EEG).
+
+* The researchers found that one of the mouse strains ('Dp10Yey' mice) had worse memory, and had irregular brain circuity (signals) in a part of the brain called hippocampus -- which is known to be very important for memory.
+
+* They also found another strain ('Dp1Tyb' mice) had worse decision-making ability and had poor brain signalling between the hippocampus and the pre-frontal cortex -- needed for planning and decision-making. And the third strain ('Dp17Yey' mice) had no unusual electrical activity in the brain.
+ 
+
+## Conclusions/ discovery	
+Thanks to these experiments researches have been able to show for the first time that different and multiple genes are contributing to the various cognitive problems associated with Down syndrome."
+
+## Remaining questions	 
+  Did the researchers  discovered specifically which gene or genes, within the smaller gene groups, are responsible for impaired memory and decision-making?
+ 
 

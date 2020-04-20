@@ -1,0 +1,57 @@
+---
+title: "Article 9"
+description: |
+  A short description of the post.
+author:
+  - name: Azaria Nono
+    url: {}
+date: 04-19-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Article 9:Targeting key gene could help lead to Down syndrome treatment
+
+![](https://www.slate.fr/sites/default/files/styles/1060x523/public/dna_1_1.jpg)
+
+## Source of the article : https://www.sciencedaily.com/releases/2019/05/190523142958.htm
+## Word count: 440
+
+
+
+# II - VOCABULARY: 
+
+Word from the text |  Synonym/definition in English |  French translation
+------------------ | -----------------------------  |----------------------
+Organoid    |   3D cell structure      | Organoide
+Pluripotent|  able to develop into more than one mature cell     |pluripotent
+  Cognitive   |   knwoledge    |   cognitif
+ 
+
+# III - ANALYSIS TABlE
+**Researchers:   **    Ranjie Xu, Andrew T. Brawner, Shenglan Li, Jing-Jing Liu, Hyosung Kim, Haipeng Xue, Zhiping P. Pang, Woo-Yang Kim, Ronald P. Hart, Ying Liu, Peng Jiang Rutgers University-New Brunswick.                  |
+
+**Published in :** 3 may 2019 
+
+
+## General topic :Targeting key gene could help lead to Down syndrome treatment
+
+
+## Introduction
+This article talks about the main role of a particular human brain gene known as gene OLIG2 usually doubled in down syndrome model, thus leading to neuronal and physical changes
+
+## Procedure/                what was  examined
+Here was examined if the gene OLIG2 had a major role in the   balance  of inhibitory and excitory neurones in a brain  for that to be done, the scientists developed the 3D brain organoid model, which resembles the early developing human brain. They also developed the mouse brain model, with stem cell-derived human brain cells implanted into the mouse brain within a day after the mice were born
+ 
+
+## Conclusions/ discovery	
+They found that inhibitory neurons, which make your brain function smoothly  were overproduced in both models, and adult mice had impaired memory. From these results we can conclude that  the OLIG2 gene plays a critical role in those effects and that inhibiting it led to improvements.
+
+## Remaining questions	 
+ 
+ 
+

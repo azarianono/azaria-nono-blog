@@ -1,0 +1,56 @@
+---
+title: "Article 8"
+description: |
+  A short description of the post.
+author:
+  - name: Azaria Nono
+    url: {}
+date: 04-19-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Article 8:Resolving inflammation: Could it prevent memory loss in Down syndrome and Alzheimer's?
+
+![](https://image.shutterstock.com/image-illustration/macrophage-engulfing-bacteria-3d-illustration-260nw-1261934833.jpg)
+
+## Source of the article : https://www.sciencedaily.com/releases/2020/03/200313180822.htm
+## Word count: 538
+
+
+
+# II - VOCABULARY: 
+
+Word from the text |  Synonym/definition in English |  French translation
+------------------ | -----------------------------  |----------------------
+ Crossfire    | intersection       | feux croisés
+Resolvins |  A particular lipid   | Résolvine
+  tangles    |   a confused mass of something twisted together    |   enchevetrement
+
+
+
+
+# III - ANALYSIS TABlE
+**Researchers:   ** DR Eric D Hamlett from the Medical university of south carolina                       |
+
+**Published in :**  13 march 2020
+
+
+## General topic ::Resolving inflammation: Could it prevent memory loss in Down syndrome and Alzheimer's?
+
+
+## Introduction
+In this article was examined  the role of a long term brain inflammation mostly common in Down syndrome patients due to lack of body natural hilling lipids called resolvin as a course of Alzeihemer
+## Procedure/                what was  examined
+here was examined what might happen if a down syndrome patient was treated with  the lipid reversed memory loss  
+
+## Conclusions/ discovery	
+No final conclusion was taken yet from the experiments, but today we are sure of the fact that the Brevity of inflammation is crucial to healthy healing, and using these naturally produced lipids may be the first step in understanding our body's most ancient system of recovery.
+
+
+## Remaining questions	 
+  Are lipid treatments in down syndrome model sufficient to prevent dementia? 
